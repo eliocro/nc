@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+.picasa.ini
+Picasa.ini
+Thumbs.db
