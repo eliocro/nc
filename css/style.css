@@ -21,6 +21,8 @@ body {
 .w178 { width: 178px; }
 .w620 { width: 620px; }
 .w158 { width: 158px; }
+.h120 { min-height: 120px; }
+.h680 { min-height: 680px; }
 
 .clearfix::after {
 	content: "";
